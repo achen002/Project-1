@@ -1,0 +1,38 @@
+canvas {
+ 
+}
+
+#whole {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+
+}
+#container-stats {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    
+
+}
+#lives {
+margin: 20px;
+}
+
+#accuracy {
+    margin: 20px;
+
+}
+
+#score {
+    margin: 20px;
+
+}
+
+#button {
+margin-bottom: 20px;
+
+}
